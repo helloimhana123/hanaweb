@@ -1,0 +1,20 @@
+baseURL = 'http://hello.com/'
+locale = 'en-us'
+title = "Hana's test"
+theme = 'ananke-2.19.0'
+Author = 'Pepe'
+enableRobotsTXT = true
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
