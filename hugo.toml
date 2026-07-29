@@ -4,6 +4,7 @@ title = "Hana's test"
 theme = 'ananke-2.19.0'
 Author = 'Pepe'
 enableRobotsTXT = true
+publishDir = "docs"
 
 [menus]
   [[menus.main]]
