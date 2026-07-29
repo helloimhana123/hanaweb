@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Hana&#39;s test</title>
-		<link>http://hello.com/posts/</link>
+		<link>https://helloimhana123.github.io/hanaweb/posts/</link>
 		<description>Recent content in Posts on Hana&#39;s test</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 28 Jul 2026 20:07:42 +0200</lastBuildDate>
 		
-			<atom:link href="http://hello.com/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://helloimhana123.github.io/hanaweb/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>f1rst p0st</title>
-				<link>http://hello.com/posts/my-first-post/</link>
+				<link>https://helloimhana123.github.io/hanaweb/posts/my-first-post/</link>
 				<pubDate>Tue, 28 Jul 2026 20:07:42 +0200</pubDate>
-				<guid>http://hello.com/posts/my-first-post/</guid>
+				<guid>https://helloimhana123.github.io/hanaweb/posts/my-first-post/</guid>
 				<description>&lt;p&gt;Lol!!!!!!!&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hello.com/about/</loc>
+    <loc>https://helloimhana123.github.io/hanaweb/about/</loc>
     <lastmod>2026-07-28T20:07:42+02:00</lastmod>
   </url><url>
-    <loc>http://hello.com/posts/my-first-post/</loc>
+    <loc>https://helloimhana123.github.io/hanaweb/posts/my-first-post/</loc>
     <lastmod>2026-07-28T20:07:42+02:00</lastmod>
   </url><url>
-    <loc>http://hello.com/</loc>
+    <loc>https://helloimhana123.github.io/hanaweb/</loc>
     <lastmod>2026-07-28T20:07:42+02:00</lastmod>
   </url><url>
-    <loc>http://hello.com/posts/</loc>
+    <loc>https://helloimhana123.github.io/hanaweb/posts/</loc>
     <lastmod>2026-07-28T20:07:42+02:00</lastmod>
   </url><url>
-    <loc>http://hello.com/categories/</loc>
+    <loc>https://helloimhana123.github.io/hanaweb/categories/</loc>
   </url><url>
-    <loc>http://hello.com/tags/</loc>
+    <loc>https://helloimhana123.github.io/hanaweb/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = 'http://hello.com/'
+baseURL = 'https://helloimhana123.github.io/hanaweb/'
 locale = 'en-us'
 title = "Hana's test"
 theme = 'ananke-2.19.0'
